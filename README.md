@@ -1,6 +1,11 @@
-# Karsiligi Ne?
+**Deprecated** – This API is no longer in use.  
+The project has been replaced by an integrated API within [github.com/sDenizOzturk/karsiligine-com-tr](https://github.com/sDenizOzturk/karsiligine-com-tr)
 
-[karsiligine.com](https://karsiligine.com) is a web application that calculates TL inlation using USD rates and USD inflation.
+---
+
+# Karsiligi Ne? (API)
+
+Was an API that calculated TL inflation using USD rates and USD inflation.
 
 ## Technologies Used
 
@@ -8,7 +13,3 @@
 - Express
 - TypeScript
 - Fast XML Parser
-
-## Frontend Repository
-
-[github.com/sDenizOzturk/karsiligine-com](https://github.com/sDenizOzturk/karsiligine-com)
